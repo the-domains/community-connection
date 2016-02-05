@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T20:48:33.191Z'
-dateModified: '2016-02-05T20:46:49.156Z'
-title: GSSW Participates in I2E at Baylor
+datePublished: '2016-02-05T20:55:22.990Z'
+dateModified: '2016-02-05T20:55:18.671Z'
+title: ''
 author: []
+sourcePath: _posts/2016-02-05-gssw-participates-in-i2e-at-baylor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-gssw-participates-in-i2e-at-baylor.md
-published: true
 url: gssw-participates-in-i2e-at-baylor/index.html
 _type: Article
 
